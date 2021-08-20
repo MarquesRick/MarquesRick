@@ -1,6 +1,9 @@
 ### "Happiness only real when shared" 👋🍀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquesRick&count_private=true&theme=onedark)](https://github.com/MarquesRick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact)](https://github.com/MarquesRick/github-readme-stats)
+
+![Snake animation](https://github.com/MarquesRick/MarquesRick/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **MarquesRick/MarquesRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
