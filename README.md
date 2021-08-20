@@ -1,4 +1,4 @@
-### Hi there 👋
+### "Happiness only real when shared" 👋🍀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquesRick&count_private=true&theme=onedark)](https://github.com/MarquesRick/github-readme-stats)
 
