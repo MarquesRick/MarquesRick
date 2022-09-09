@@ -1,6 +1,6 @@
 <div><h1>"Happiness only real when shared" 👋🍀</h1></div>
 <div style="text-align: center;">
-  <a href="https://app.daily.dev/marquesrick"><img src="https://api.daily.dev/devcards/9aa3f7b043954a5d971e1321fc063dcf.png?r=ig3" width="280" alt="Henrique Marques's      Dev Card"/></a>
+  <a href="https://app.daily.dev/marquesrick"><img src="https://github.com/MarquesRick/MarquesRick/blob/master/devcard.svg" width="280" alt="Henrique Marques's      Dev Card"/></a>
 </div>
 <div>
   <a href="https://github.com/MarquesRick">
