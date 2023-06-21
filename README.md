@@ -1,5 +1,5 @@
 <div><h1>"Happiness only real when shared" 👋🍀</h1></div>
-<div><h3>I'm Henrique, a full-stack developer 🧑🏻‍💻🤘</h3></div>
+<div><h3>I'm Henrique, a Full Stack developer 🧑🏻‍💻🤘</h3></div>
 <div style="text-align: center;">
   <a href="https://app.daily.dev/marquesrick"><img src="https://github.com/MarquesRick/MarquesRick/blob/master/devcard.svg" width="280" alt="Henrique Marques's      Dev Card"/></a>
 </div>
