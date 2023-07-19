@@ -26,7 +26,9 @@
 </div>
 
 <!--****[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact)](https://github.com/MarquesRick/github-readme-stats) -->
-![Snake animation](https://github.com/MarquesRick/MarquesRick/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/MarquesRick/MarquesRick/blob/output/github-contribution-grid-snake.svg) -->
+
+![snake gif](https://github.com/MarquesRick/MarquesRick/blob/output/github-contribution-grid-snake.gif)
 
 ### Skills
 <div>
