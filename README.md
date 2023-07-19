@@ -26,7 +26,12 @@
 </div>
 
 <!--****[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact)](https://github.com/MarquesRick/github-readme-stats) -->
-![Snake animation](https://github.com/MarquesRick/MarquesRick/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/MarquesRick/MarquesRick/blob/output/github-contribution-grid-snake.svg)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### Skills
 <div>
