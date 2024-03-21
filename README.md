@@ -30,6 +30,8 @@
 
 ### Skills
 <div>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="40"
+        height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40"
         height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
@@ -44,7 +46,7 @@
         height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40"
         height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"
@@ -60,8 +62,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40"
         height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" width="50"
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" width="40" height="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="50"
         height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </div>
 </div>
