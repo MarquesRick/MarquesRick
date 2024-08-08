@@ -1,7 +1,7 @@
 <div align="center">
     <h3 style="margin: 0; padding: 0;">I'm Henrique, Software Engineer 🧑🏻‍💻🤘</h3>
     <h6 style="margin: 0; padding: 0;">"Happiness only real when shared" 🍀</h6>
-	<a href="mailto:hmservicostech@outlook.com.br"><img src="https://img.shields.io/static/v1?label=&labelColor=EA4335&message=Send%20Me%20A%20Email&color=EA4335&style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+	<a href="mailto:hmservicostech@outlook.com.br"><img src="https://img.shields.io/static/v1?label=&labelColor=EA4335&message=Send%20Me%20An%20Email&color=EA4335&style=flat&logo=gmail&logoColor=white" alt="email"/></a>
 	<a href="https://www.linkedin.com/in/henri-marques"><img src="https://img.shields.io/static/v1?label=&labelColor=0A66C2&message=Follow%20Me%20On%20Linkedin&color=0A66C2&style=flat&logo=linkedin&logoColor=white" alt="email"/></a>
 </div>
 <hr/>
