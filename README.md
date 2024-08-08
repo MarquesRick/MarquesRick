@@ -1,70 +1,60 @@
-<div>
+<div align="center">
     <h1>"Happiness only real when shared" 🍀</h1>
 </div>
-<div>
+
+<div align="center">
     <h3>I'm Henrique, Full Stack developer 🧑🏻‍💻🤘</h3>
 </div>
 
-<div style="text-align: center;">
-   <a href="https://app.daily.dev/marquesrick"><img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?r=ev2" width="356" alt="Henrique Marques's Dev Card"/></a>
-</div>
-<div>
-    <a href="https://github.com/MarquesRick">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=MarquesRick&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact&langs_count=8&theme=onedark" />
-</div>
-<div>
-    <a href="mailto:hmservicostech@outlook.com.br"><img
-            src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/henri-marques" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
+<div align="center">
+    <a href="https://app.daily.dev/marquesrick">
+        <img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?r=ev2" width="356" alt="Henrique Marques's Dev Card"/>
+    </a>
 </div>
 
-<!--****[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact)](https://github.com/MarquesRick/github-readme-stats) -->
+<div align="center">
+    <a href="https://github.com/MarquesRick">
+        <img src="https://github-readme-stats.vercel.app/api?username=MarquesRick&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact&langs_count=8&theme=onedark" height="180em"/>
+    </a>
+</div>
+
+<div align="center">
+    <a href="mailto:hmservicostech@outlook.com.br">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/>
+    </a>
+    <a href="https://www.linkedin.com/in/henri-marques" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    </a>
+</div>
+
 ![Snake animation](https://raw.githubusercontent.com/MarquesRick/MarquesRick/output/github-contribution-grid-snake-dark.svg)
 
 ### Skills
-<div>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"
-        height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="40" height="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40"
-        height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40"
-        height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-        width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40"
-        height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" width="40" height="40" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="50"
-        height="50" />
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-</div>
+
+<div align="center">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
