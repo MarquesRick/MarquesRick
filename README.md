@@ -1,40 +1,25 @@
 <div align="center">
-    <h1>"Happiness only real when shared" 🍀</h1>
+    <h3 style="margin: 0; padding: 0;">I'm Henrique, Software Engineer 🧑🏻‍💻🤘</h3>
+    <h6 style="margin: 0; padding: 0;">"Happiness only real when shared" 🍀</h6>
+	<a href="mailto:hmservicostech@outlook.com.br"><img src="https://img.shields.io/static/v1?label=&labelColor=EA4335&message=Send%20Me%20A%20Email&color=EA4335&style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+	<a href="https://www.linkedin.com/in/henri-marques"><img src="https://img.shields.io/static/v1?label=&labelColor=0A66C2&message=Follow%20Me%20On%20Linkedin&color=0A66C2&style=flat&logo=linkedin&logoColor=white" alt="email"/></a>
 </div>
-
-<div align="center">
-    <h3>I'm Henrique, Full Stack developer 🧑🏻‍💻🤘</h3>
-</div>
-
-<div align="center">
-    <a href="https://app.daily.dev/marquesrick">
-        <img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?r=ev2" width="356" alt="Henrique Marques's Dev Card"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/MarquesRick">
-        <img src="https://github-readme-stats.vercel.app/api?username=MarquesRick&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="180em"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact&langs_count=8&theme=onedark" height="180em"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="mailto:hmservicostech@outlook.com.br">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/>
-    </a>
-    <a href="https://www.linkedin.com/in/henri-marques" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-    </a>
-</div>
-
-![Snake animation](https://raw.githubusercontent.com/MarquesRick/MarquesRick/output/github-contribution-grid-snake-dark.svg)
-
-
 <hr/>
-<details open="open">
-    <summary>Skills</summary>
-  <br>
+<table align="center" style="width:100%; border-collapse: collapse; border: none!important; background-color:rgba(0, 0, 0, 0);" cellpadding="0" cellspacing="0">
+<tr>
+    <td rowspan="2" style="height: 300px;"><a href="https://app.daily.dev/marquesrick">
+        <img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?r=ev2" width="270" alt="Henrique Marques's Dev Card"/>
+    </a></td>
+    <td> <a href="https://github.com/MarquesRick">
+        <img src="https://github-readme-stats.vercel.app/api?username=MarquesRick&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+    </a></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/MarquesRick">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact&langs_count=8&theme=onedark" />
+    </a></td>
+</tr> 
+</table>
   <ul>
     <table align="center">
       <tr>
@@ -94,4 +79,10 @@
       </tr>
     </table>
   </ul>
-</details>
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MarquesRick/MarquesRick/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div>
+
+
