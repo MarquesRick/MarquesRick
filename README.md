@@ -30,8 +30,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/MarquesRick/MarquesRick/output/github-contribution-grid-snake-dark.svg)
 
----
 
+<hr/>
 <details open="open">
     <summary>Skills</summary>
   <br>
