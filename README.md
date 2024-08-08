@@ -4,10 +4,9 @@
 <div>
     <h3>I'm Henrique, Full Stack developer 🧑🏻‍💻🤘</h3>
 </div>
+
 <div style="text-align: center;">
-    <a href="https://app.daily.dev/marquesrick"><img
-            src="https://github.com/MarquesRick/MarquesRick/blob/master/devcard.svg" width="280"
-            alt="Henrique Marques's      Dev Card" /></a>
+   <a href="https://app.daily.dev/marquesrick"><img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?r=ev2" width="356" alt="Henrique Marques's Dev Card"/></a>
 </div>
 <div>
     <a href="https://github.com/MarquesRick">
