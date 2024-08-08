@@ -7,9 +7,9 @@
 <hr/>
 <table align="center" style="width:100%; border-collapse: collapse; border: none!important; background-color:rgba(0, 0, 0, 0);" cellpadding="0" cellspacing="0">
 <tr>
-    <td rowspan="2" style="height: 300px;"><a href="https://app.daily.dev/marquesrick">
-        <img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?r=ev2" width="270" alt="Henrique Marques's Dev Card"/>
-    </a></td>
+    <td rowspan="2" style="height: 300px;">
+<a href="https://app.daily.dev/marquesrick"><img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?type=default&r=1wu" width="356" alt="Henrique Marques's Dev Card"/></a>
+	    </td>
     <td> <a href="https://github.com/MarquesRick">
         <img src="https://github-readme-stats.vercel.app/api?username=MarquesRick&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
     </a></td>
