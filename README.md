@@ -33,10 +33,11 @@
       </tr>
       <tr>
         <td>Database</td>
-        <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=iced&logoColor=white" />
+        <td>
+	    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+	    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=iced&logoColor=white" />
             <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
             <img src="https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
             <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
             <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
         </td>
@@ -45,10 +46,11 @@
         <td>Backend</td>
         <td>
           <img src="https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=coffeescript&logoColor=white" />
+	  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+	  <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
           <img src="https://img.shields.io/badge/Node.Js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
           <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-	    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
         </td>
       </tr>
       <tr>
@@ -73,10 +75,13 @@
         <td>Tools</td>
         <td>
                 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+		<img src="https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
                 <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
                 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
                 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
                 <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+		<img src="https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+		<img src="https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
         </td>
       </tr>
     </table>
