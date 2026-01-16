@@ -9,15 +9,15 @@
     <td rowspan="2" style="height: 300px;">
 <a href="https://app.daily.dev/marquesrick"><img src="https://api.daily.dev/devcards/v2/SqaW1JvQPfk9OOsQsU4Rl.png?type=default&r=1wu" width="356" alt="Henrique Marques's Dev Card"/></a>
 	    </td>
-    <td> <a href="https://github.com/MarquesRick">
+    <!-- <td> <a href="https://github.com/MarquesRick">
         <img src="https://github-readme-stats.vercel.app/api?username=MarquesRick&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-    </a></td>
+    </a></td> -->
 </tr>
-<tr>
+<!-- <tr>
     <td align="center"><a href="https://github.com/MarquesRick">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesRick&layout=compact&langs_count=8&theme=onedark" />
     </a></td>
-</tr> 
+</tr>  -->
 </table>
   <ul>
     <table align="center">
