@@ -16,13 +16,14 @@ jobs:
       - uses: actions/setup-go@v7
         with:
           go-version: stable
+          cache: false
 
       - name: Draw skyline
         env:
           GITHUB_TOKEN: ${{ secrets.SKYLINE_TOKEN || secrets.GITHUB_TOKEN }}
         run: go run github.com/pinkpixel-dev/skyline@latest -theme neon -svg skyline.svg "${{ github.repository_owner }}"
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: skyline
           path: skyline.svg
@@ -34,7 +35,7 @@ jobs:
     permissions:
       contents: write       # só este job pode gravar, e ele não roda código de terceiros
     steps:
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v7
         with:
           name: skyline
 
