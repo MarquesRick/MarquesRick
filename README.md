@@ -92,4 +92,6 @@
     <img src="https://raw.githubusercontent.com/MarquesRick/MarquesRick/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </div>
 
+![My skyline](https://raw.githubusercontent.com/MarquesRick/MarquesRick/output/skyline.svg)
+
 
